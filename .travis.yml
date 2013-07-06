@@ -1,3 +1,4 @@
+before_install: "npm install -g tap"
 language: node_js
 node_js:
   - "0.10"

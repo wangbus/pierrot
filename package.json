@@ -4,7 +4,7 @@
   "description": "Node.js based simple deployment tool",
   "main": "index.js",
   "scripts": {
-    "test" : "tap ./tests/*.js"
+    "test" : "node ./node_modules/tap/bin/tap ./tests/*.js"
   },
   "repository": {
     "type": "git",

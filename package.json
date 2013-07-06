@@ -1,0 +1,26 @@
+{
+  "name": "pierrot",
+  "version": "0.1.0",
+  "description": "Node.js based simple deployment tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wangbus/pierrot.git"
+  },
+  "keywords": [
+    "deployment"
+  ],
+  "author": "James Wang",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "c55ad16c411a68b9f58d909748593b9584a55c89",
+  "bugs": {
+    "url": "https://github.com/wangbus/pierrot/issues"
+  },
+  "bin": {
+    "pie": "./pie.js"
+  }
+}
